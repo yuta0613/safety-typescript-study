@@ -1,1 +1,1 @@
-# safty-typescript-study
+# safety-typescript-study
