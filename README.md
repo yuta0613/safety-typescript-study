@@ -1,0 +1,1 @@
+# safty-typescript-study
